@@ -1,3 +1,7 @@
+;FileName: asm_main.asm
+;Author: Tyler Lafond
+;Description: Multiplies an array by a scalar and prints the new array
+;Email: tylerl5014@student.vvc.edu
 ;
 ; file: asm_main.asm
 
